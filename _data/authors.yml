@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Jennifer Reeve"
+  uri         : "http://jen-reeve.github.io"
+  email       : "jennifer.reeve@colorado.edu"
+  bio         : ""
+  avatar      : "Jennifer_Reeve_PC0002.JPG"
+  twitter     : "@seejenscience"
+#  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#Name2 Name2:
+#  name        : "Name2 Name2"
+#  email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"
