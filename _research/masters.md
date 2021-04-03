@@ -1,5 +1,5 @@
 ---
-title: "Masters Research"
+title: "Dissolved gas and nutrient tracers of nitrogen cycling in the Arctic Ocean"
 excerpt: "My Masters research utilized dissolved gas and nutrient ratio tracers to observe nitrogen cycling on ocean basin scales."
 collection: research
 ---
