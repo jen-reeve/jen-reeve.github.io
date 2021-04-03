@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Land Acknowledgement
+-----
+I currently live and work on the stolen lands of the Cheyenne, Arapaho and Ute peoples.
+I was raised on the stolen lands of the Duwamish, Stillaguamish, Tulalip, Samish, S'Klallam, and Coast Salish peoples.
+My post-secondary education took place across the stolen lands of the Lənape Haki-nk (Lenni-Lenape), Lekwungen/Songhees, Te’mexw Treaty Association, Á,LEṈENEȻ ȽTE (W̱SÁNEĆ), Coast Salish, Cheyenne, Arapaho, and Ute peoples.
+If you would like to learn more about the peoples displaced by colonization, I have found [Native Land](https://native-land.ca/) to be a useful resource (it provided much of the above information).
+
 About my research
 -----
 My current research focuses on our understanding of the evolution of cyanobacteria.
@@ -19,7 +26,13 @@ For more information please look at the [publications](https://jen-reeve.github.
 
 About me
 -----
+I grew up in the Pacific Northwest (just outside of Seattle).
+My interest in the outdoors, nature, and the ocean pop up in my research (pretty much all environmental).
+I live with my husband and two dogs, and fill my free time with dog walks, video games, TV, knitting, and procrastinating chores.
 
+I was diagnosed with ADHD as an adult, which means that I've had it all my life, but wasn't aware why some things seemed to be so much harder for me than for those around me.
+In addition to ADHD, I've struggled with depression for most of my life.
+I'm a firm believer in taking our mental health as seriously as our physical health.
 
 
 For more info about the creation/design of this website
