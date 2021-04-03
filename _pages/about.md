@@ -20,9 +20,9 @@ My current research focuses on our understanding of the evolution of cyanobacter
 I have been specifically investigating how cyanobacteria respond to changes in salinity across physiological, evolutionary, and macroevolutionary timescales.
 While this work is primarily evolutionary biology/microbiology in practice, it has been intentionally framed from an Earth history perspective.
 
-My past research has run the gamut of 
+My past research has run the gamut, largely focused on interactions between microbes and the Earth system. This has included organic geochemistry, stable isotope probing, molecular cloning, dissolved gas measurements, and geochemical modeling.
 
-For more information please look at the [publications](https://jen-reeve.github.io/publications/) and [research]() pages.
+For more information please look at the [publications](https://jen-reeve.github.io/publications/) and [research](https://jen-reeve.github.io/research/) pages.
 
 About me
 -----
