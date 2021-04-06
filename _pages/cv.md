@@ -129,3 +129,13 @@ Skills
 ======
 * Skill 1
 --->
+
+<!---
+This is a comment. Below this is commented liquid syntax.
+--->
+
+{% comment%}
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endcomment %}
