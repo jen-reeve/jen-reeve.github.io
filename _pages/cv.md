@@ -16,6 +16,28 @@ Education
 * M.Sc. in Earth and Ocean Sciences, University of Victoria, Victoria, British Columbia, Canada, 2016
 * Ph.D in Geological Sciences, University of Colorado Boulder, Boulder, Colorado, USA, 2022 (expected)
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+<!---
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+--->
+  
+<!---
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+--->
+
 Research experience
 ======
 * 2017 - present: Graduate Research Assistant
@@ -42,29 +64,7 @@ Research experience
   * Spivak Lab, Marine Chemistry and Geochemistry Department, Woods Hole Oceanographic Institution
   * Duties included: Field sampling, mesocosm set-up, stable isotope probing, lipid extraction, identification and quantification, data analysis
   * Supervisor: Dr. Amanda Spivak
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!---
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
---->
-  
-<!---
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
---->
-  
+
 Awards and Honors
 ======
 * 2019 - 2021: ARCS Scholar, Colorado Chapter
