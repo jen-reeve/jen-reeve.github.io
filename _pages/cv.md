@@ -49,28 +49,35 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!----Talks----!>
-<!----======----!>
-<!----  <ul>{% for post in site.talks %}----!>
-<!----    {% include archive-single-talk-cv.html %}----!>
-<!----  {% endfor %}</ul>----!>
+<!---
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+---!>
   
-<!----Teaching----!>
-<!----======----!>
-<!----  <ul>{% for post in site.teaching %}----!>
-<!----    {% include archive-single-cv.html %}----!>
-<!----  {% endfor %}</ul>----!>
+<!---
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+---!>
   
 Awards and Honors
 ======
 * 2019 - 2021: ARCS Scholar, Colorado Chapter
 * 2014 - 2016: Graduate Award, University of Victoria
 
-<!----Fellowships----!>
-<!----======----!>
+<!---
+Fellowships
+<!----======
 
-<!----Grants----!>
-<!----======----!>
+<!---
+Grants
+======
+---!>
 
 Service and leadership
 ======
@@ -116,6 +123,8 @@ Service and leadership
 ## Outreach
 
 
-<!----Skills----!>
-<!----======----!>
-<!----* Skill 1----!>
+<!---
+Skills
+======
+* Skill 1
+---!>
