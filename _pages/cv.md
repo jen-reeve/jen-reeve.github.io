@@ -100,7 +100,7 @@ Service and leadership
   * Worked with undergraduate shared governance on shared concerns
   * Co-drafted response to racist incident on campus and worked with Black Student Alliance to ensure administrative response
   * Coordinated Fall and Spring graduate student orientations
-* Student Health Board Representative, United Government of Graduate Students, University of Colorado Boulder
+* 2018 - 2019: Student Health Board Representative, United Government of Graduate Students, University of Colorado Boulder
   * Attended weekly meetings of Student Health Board
   * Advocated for graduate student concerns and priorities
   * Discussed priorities for student insurance policies
@@ -116,13 +116,25 @@ Service and leadership
 * 2015 - 2016: Graduate Representative, School of Earth and Ocean Sciences, University of Victoria
 
 ## Profession
-
+* 2017 - 2018: Monthly Meeting Coordinator, Boulder Pod, 500 Women Scientists
 
 ## Mentoring
-
+* 2020 - present: Graduate Student Mentor, McNair Scholar Program, University of Colorado Boulder
+* 2020 - present: Graduate Mentor, Graduate Admissions in the Earth Sciences, University of Colorado Boulder
+* 2020 - present: Peer Mentor, Graduate School, University of Colorado Boulder
+* 2020 - present: Peer Mentor, Department of Geological Sciences, University of Colorado Boulder
+* 2019 - present: Undergraduate Researchers Supervisor/Mentor, Geomicrobial Physiology and Evolution Lab, University of Colorado Boulder
+* 2019 - 2020: Honors Thesis Graduate Supervisor, Ecology and Evolutionary Biology, University of Colorado Boulder
+* 2019 - 2020: Graduate Mentor, Biological Sciences Initiative, University of Colorado Boulder
+* 2018 - 2019: Communications Mentor, Research Experiences in Solid Earth Sciences for Students, UNAVCO
 
 ## Outreach
-
+* 2021: Volunteer Judge, Boulder Valley School District Science Fair
+* 2019 - present: Skype a Scientist
+* 2019: Mentor, GO STEM Day, Northglenn High School, Colorado
+* 2018 - 2019: Penpal, Letters to a Prescientist
+* 2018: Mentor, Speed Mentoring, Centaurus High School, Colorado
+* 2015: Volunteer Judge, Vancouver Island Regional Science Fair
 
 <!---
 Skills
