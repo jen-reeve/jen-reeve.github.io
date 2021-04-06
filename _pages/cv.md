@@ -55,7 +55,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
----!>
+--->
   
 <!---
 Teaching
@@ -63,7 +63,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
----!>
+--->
   
 Awards and Honors
 ======
@@ -72,12 +72,13 @@ Awards and Honors
 
 <!---
 Fellowships
-<!----======
+======
+--->
 
 <!---
 Grants
 ======
----!>
+--->
 
 Service and leadership
 ======
@@ -127,4 +128,4 @@ Service and leadership
 Skills
 ======
 * Skill 1
----!>
+--->
