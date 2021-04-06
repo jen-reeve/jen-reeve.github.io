@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Geological Sciences, University of Colorado Boulder, Boulder, Colorado, USA, 2022 (expected)
+* M.Sc. in Earth and Ocean Sciences, University of Victoria, Victoria, British Columbia, Canada, 2016
 * B.S. in Chemistry (concentration in Biochemistry), Haverford College, Haverford, Pennsylvania, USA, 2014
   * Semester in Environmental Sciences, Marine Biological Laboratory, Woods Hole, Massachusetts, USA, 2012
-* M.Sc. in Earth and Ocean Sciences, University of Victoria, Victoria, British Columbia, Canada, 2016
-* Ph.D in Geological Sciences, University of Colorado Boulder, Boulder, Colorado, USA, 2022 (expected)
 
 Publications
 ======
