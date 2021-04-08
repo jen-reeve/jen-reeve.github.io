@@ -42,6 +42,7 @@ author_profile: true
   </summary>
   
 ### Graduate fellowships:
+{:.no_toc}
 * US based
   *  [NSF GRFP](https://www.nsfgrfp.org/)
   *  [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect) (link is from 2021 posting)
@@ -49,9 +50,11 @@ author_profile: true
   *  [Ford Foundation Predoctoral Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_047958)
 
 ### Dissertation completion funding:
+{:.no_toc}
 * [Ford Foundation Dissertation Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_047959)
 
 ### Graduate grants:
+{:.no_toc}
 * 
   
 </details>
@@ -62,6 +65,7 @@ author_profile: true
   </summary>
   
 ### US Based
+{:.no_toc}
 * [NASA Postdoctoral Fellowships]()
   
 </details>
