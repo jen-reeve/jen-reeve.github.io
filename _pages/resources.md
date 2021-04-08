@@ -13,7 +13,6 @@ author_profile: true
 
 ## Funding
 
-
 {::options parse_block_html="true" /}  
 <details>
   <summary markdown="span">
