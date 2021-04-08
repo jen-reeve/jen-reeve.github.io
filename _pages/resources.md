@@ -9,12 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-{::options parse_block_html="true" /}
-<details>
-  <summary markdown="span">
-    <b>Funding</b>
-  </summary>
-  
+## Funding
+{::options parse_block_html="true" /}  
   <details>
     <summary markdown="span">
       <b>Undergraduate funding</b>
