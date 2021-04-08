@@ -7,9 +7,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+* toc
+{:toc}
 
 ## Funding
-{:toc}
+
 
 {::options parse_block_html="true" /}  
 <details>
