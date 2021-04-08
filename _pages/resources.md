@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+{:toc}
+
 ## Funding
 {::options parse_block_html="true" /}  
   <details>
