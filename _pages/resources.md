@@ -11,6 +11,7 @@ redirect_from:
 
 <details>
   <summary><b>Show code</b></summary>
+  Code
 
 </details>
 
