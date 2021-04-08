@@ -12,7 +12,7 @@ redirect_from:
 {::options parse_block_html="true" /}
 <details>
   <summary markdown="span">
-    <h2>Funding</h2>
+    <b>Funding</b>
   </summary>
   
   <details>
