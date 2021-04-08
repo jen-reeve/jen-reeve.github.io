@@ -14,15 +14,6 @@ layout: default
 
 <div id="main" role="main">
   {% include sidebar.html %}
-
-  {% unless page.notoc %}
-  <div id="inline_toc" markdown="1">
-
-  * toc
-  {:toc}
-
-  </div>
-{% endunless %}
   
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
