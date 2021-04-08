@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-{: .success title="My Collapsible Panel" .x}
-Some text
+<details>
+  <summary><b>Show code</b></summary>
+
+</details>
 
 <!---
 This is a comment. Below this is commented liquid syntax.
