@@ -10,6 +10,7 @@ author_profile: true
 
 ## Funding
 {:toc}
+
 {::options parse_block_html="true" /}  
 <details>
   <summary markdown="span">
