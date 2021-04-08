@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <details>
-  <summary><b>Show code</b></summary>
-  Code
+  <summary><b>Graduate funding</b></summary>
+  * US based
+    *  [NSF GRFP](https://www.nsfgrfp.org/)
 
 </details>
 
