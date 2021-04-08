@@ -13,10 +13,10 @@ redirect_from:
 
 ## Funding
 {::options parse_block_html="true" /}  
-  <details>
-    <summary markdown="span">
-      <b>Undergraduate funding</b>
-    </summary>
+<details>
+  <summary markdown="span">
+    <b>Undergraduate funding</b>
+  </summary>
     
 ###  Research funding:
 * US based:
@@ -31,11 +31,11 @@ redirect_from:
     *  There are also bigger projects that may have openings which will be posted in May [here](https://www.colorado.edu/urop/grants/open-opportunities) for both this summer and next academic year
   *  [BSI](https://www.colorado.edu/bsi/bsi-scholars)
   
- </details>
+</details>
 
-  <details>
-    <summary markdown="span">
-      <b>Graduate funding</b>
+<details>
+  <summary markdown="span">
+    <b>Graduate funding</b>
   </summary>
   
 ### Graduate fellowships:
@@ -51,17 +51,16 @@ redirect_from:
 ### Graduate grants:
 * 
   
-  </details>
+</details>
 
-  <details>
-    <summary markdown="span">
-      <b>Postdoctoral funding</b>
+<details>
+  <summary markdown="span">
+    <b>Postdoctoral funding</b>
   </summary>
   
 ### US Based
 * [NASA Postdoctoral Fellowships]()
   
-  </details>
 </details>
 {::options parse_block_html="true" /}
 <!---
