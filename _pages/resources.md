@@ -20,6 +20,7 @@ toc
   </summary>
     
 ###  Research funding:
+{:.no_toc}
 * US based:
   * [NSF Research Experiences for Undergraduates (REUs)](https://www.nsf.gov/crssprgm/reu/)
   * [NASA Interns](https://intern.nasa.gov/)
