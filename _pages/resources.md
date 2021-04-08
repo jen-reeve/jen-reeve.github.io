@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-{:toc}
-
 ## Funding
+{:toc}
 {::options parse_block_html="true" /}  
 <details>
   <summary markdown="span">
