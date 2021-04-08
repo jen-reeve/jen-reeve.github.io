@@ -11,7 +11,10 @@ redirect_from:
 
 {::options parse_block_html="true" /}
 <details>
-  <summary markdown="span"><b>Undergraduate funding</b></summary>
+  <details>
+    <summary markdown="span">
+      <b>Undergraduate funding</b>
+    </summary>
 ###  Research funding:
   * CU Boulder specific
     *  [UROP](https://www.colorado.edu/urop/)
@@ -25,10 +28,12 @@ redirect_from:
     * [NASA Interns](https://intern.nasa.gov/)
     * [Pathways to Science Database](https://www.pathwaystoscience.org/programs.aspx?descriptorhub=SummerResearch_Summer%20Research%20Opportunity)
   
-</details>
+ </details>
 
-<details>
-  <summary markdown="span"><b>Graduate funding</b></summary>
+  <details>
+    <summary markdown="span">
+      <b>Graduate funding</b>
+  </summary>
 ### Standard graduate funding:
   * US based
     *  [NSF GRFP](https://www.nsfgrfp.org/)
@@ -36,12 +41,15 @@ redirect_from:
     *  [AAUW International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
 ### Dissertation completion funding:
   
-</details>
+  </details>
 
-<details>
-  <summary markdown="span"><b>Postdoctoral funding</b></summary>
+  <details>
+    <summary markdown="span">
+      <b>Postdoctoral funding</b>
+  </summary>
 ###
   
+  </details>
 </details>
 {::options parse_block_html="true" /}
 <!---
