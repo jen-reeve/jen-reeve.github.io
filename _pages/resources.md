@@ -40,17 +40,30 @@ author_profile: true
     <b>Graduate funding</b>
   </summary>
   
-### Graduate fellowships:
+### Graduate research fellowships:
 {:.no_toc}
 * US based
   *  [NSF GRFP](https://www.nsfgrfp.org/)
   *  [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=3E72ED7E1FBDF8155A4E2DA033EF7449&stack=redirect) (link is from 2021 posting)
+  *  [NASA Fellowship Activity](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={24E3CA0D-F71B-03FF-AD0E-AB283B3B1050}&path=open) (link is from 2021 posting)
+  *  [Ford Foundation Predoctoral Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_047958) 
+  *  [Hertz Foundation Fellowship](https://www.hertzfoundation.org/the-fellowship/)
+  *  [UCAR Next Generation Fellowships - Earth System Science](https://www.ucar.edu/opportunities/fellowships/ucar-next-generation-fellowships)
+* For international students
   *  [AAUW International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
-  *  [Ford Foundation Predoctoral Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_047958)
 
 ### Dissertation completion funding:
 {:.no_toc}
 * [Ford Foundation Dissertation Fellowship](https://sites.nationalacademies.org/PGA/FordFellowships/PGA_047959)
+* [AAUW American Fellowship](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/american/)
+* CU Specific:
+  * [Graduate School Dissertation Completion Fellowship](https://www.colorado.edu/graduateschool/awards#Dissertation_Completion)
+
+### Other graduate fellowships:
+{:no_toc}
+* Policy
+  * [Christine Mirzayam Science and Technology Policy Graduate Fellowship](https://mirzayanfellow.nas.edu/Default.asp)
+  * [UCAR Next Generation Fellowships - Public Policy and Diversity and Inclusion](https://www.ucar.edu/opportunities/fellowships/ucar-next-generation-fellowships)
 
 ### Graduate grants:
 {:.no_toc}
