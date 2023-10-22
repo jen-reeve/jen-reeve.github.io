@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jennifer Reeve, MSc"
+title                    : "Jennifer Reeve, PhD"
 title_separator          : "-"
-name                     : &name "Jennifer Reeve"
-description              : &description "PhD Candidate in the Department of Geological Sciences at the University of Colorado Boulder"
+name                     : &name "Jennifer Reeve, PhD"
+description              : &description "Postdoctoral Fellow at Te Whare Wananga o Waikato"
 url                      : https://jen-reeve.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jen-reeve/jen-reeve.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jennifer Reeve"
+  name             : "Jennifer Reeve, PhD"
   avatar           : "Jennifer_Reeve_PC0002.JPG"
-  bio              : "PhD Candidate in the Department of Geological Sciences at the University of Colorado Boulder"
-  location         : "Boulder, CO"
-  employer         : "University of Colorado Boulder"
+  bio              : "Postdoctoral Fellow at Te Whare Wananga o Waikato"
+  location         : "Hamilton, NZ"
+  employer         : "Te Whare Wananga o Waikato"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XokEL38AAAAJ&hl=en"
-  email            : "jennifer.reeve@colorado.edu"
+  email            : "jen.reeve@waikato.ac.nz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "seejenscience"
+  twitter          :
   vine             :
   weibo            :
   xing             :
