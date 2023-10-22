@@ -9,16 +9,20 @@ redirect_from:
 ---
 Land Acknowledgement
 -----
-I currently live and work on the stolen lands of the Cheyenne, Arapaho and Ute peoples.
+I currently live on the lands of the Waikato iwi, and am happy to work on land returned to the Waikato iwi.
 I was raised on the stolen lands of the Duwamish, Stillaguamish, Tulalip, Samish, S'Klallam, and Coast Salish peoples.
 My post-secondary education took place across the stolen lands of the Lənape Haki-nk (Lenni-Lenape), Lekwungen/Songhees, Te’mexw Treaty Association, Á,LEṈENEȻ ȽTE (W̱SÁNEĆ), Coast Salish, Cheyenne, Arapaho, and Ute peoples.
 If you would like to learn more about the peoples displaced by colonization, I have found [Native Land](https://native-land.ca/) to be a useful resource (it provided much of the above information).
 
 About my research
 -----
-My current research focuses on our understanding of the evolution of cyanobacteria.
-I have been specifically investigating how cyanobacteria respond to changes in salinity across physiological, evolutionary, and macroevolutionary timescales.
-While this work is primarily evolutionary biology/microbiology in practice, it has been intentionally framed from an Earth history perspective.
+I am currently a postdoctoral fellow at Te Whare Wananga o Waikato in the Biochemistry and Molecular Biology lab.
+My laboratory research is focused on the biochemistry and evolution of DNA ligases in marine picocyanobacteria, and involves molecular cloning as well as physiological assays.
+In addition, I am conducting research on the controls on temperature optima from enzyme to ecosystem scales, primarily using modeling and data reanalysis methods.
+
+My PhD research focused on our understanding of the evolution of cyanobacteria.
+I specifically investigated how cyanobacteria respond to changes in salinity across physiological, evolutionary, and macroevolutionary timescales.
+While this work is primarily evolutionary biology/microbiology in practice, it was intentionally framed from an Earth history perspective.
 
 My past research has run the gamut, largely focused on interactions between microbes and the Earth system. This has included organic geochemistry, stable isotope probing, molecular cloning, dissolved gas measurements, and geochemical modeling.
 
