@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2022 (expected): Ph.D in Geological Sciences, University of Colorado Boulder, Boulder, Colorado, USA,
+* 2023: Ph.D in Geological Sciences, University of Colorado Boulder, Boulder, Colorado, USA,
 * 2016: M.Sc. in Earth and Ocean Sciences, University of Victoria, Victoria, British Columbia, Canada
 * 2014: B.S. in Chemistry (concentration in Biochemistry), Haverford College, Haverford, Pennsylvania, USA
   * 2012: Semester in Environmental Sciences, Marine Biological Laboratory, Woods Hole, Massachusetts, USA
@@ -40,7 +40,11 @@ Teaching
 
 Research experience
 ======
-* 2017 - present: Graduate Research Assistant
+* 2023 - present: Postdoctoral Fellow
+  * Biochemistry and Molecular Biology, School of Science, Te Whare Wananga o Waikato (University of Waikato)
+  * Duties included: Cyanobacterial culturing, molecular cloning, data analysis, academic writing, academic presentations
+
+* 2017 - 2023: Graduate Research Assistant
   * Geomicrobial Physiology and Evolution Lab, Department of Geological Sciences, University of Colorado Boulder
   * Duties included: Cyanobacterial culturing, growth characterization, morphological analyses, data analysis, chemical modeling, undergraduate researcher training and supervision, honors thesis supervision
   * Supervisor: Professor Boswell Wing
@@ -119,11 +123,11 @@ Service and leadership
 * 2017 - 2018: Monthly Meeting Coordinator, Boulder Pod, 500 Women Scientists
 
 ## Mentoring
-* 2020 - present: Graduate Student Mentor, McNair Scholar Program, University of Colorado Boulder
-* 2020 - present: Graduate Mentor, Graduate Admissions in the Earth Sciences, University of Colorado Boulder
-* 2020 - present: Peer Mentor, Graduate School, University of Colorado Boulder
-* 2020 - present: Peer Mentor, Department of Geological Sciences, University of Colorado Boulder
-* 2019 - present: Undergraduate Researchers Supervisor/Mentor, Geomicrobial Physiology and Evolution Lab, University of Colorado Boulder
+* 2020 - 2022: Graduate Student Mentor, McNair Scholar Program, University of Colorado Boulder
+* 2020 - 2022: Graduate Mentor, Graduate Admissions in the Earth Sciences, University of Colorado Boulder
+* 2020 - 2022: Peer Mentor, Graduate School, University of Colorado Boulder
+* 2020 - 2022: Peer Mentor, Department of Geological Sciences, University of Colorado Boulder
+* 2019 - 2020: Undergraduate Researchers Supervisor/Mentor, Geomicrobial Physiology and Evolution Lab, University of Colorado Boulder
 * 2019 - 2020: Honors Thesis Graduate Supervisor, Ecology and Evolutionary Biology, University of Colorado Boulder
 * 2019 - 2020: Graduate Mentor, Biological Sciences Initiative, University of Colorado Boulder
 * 2018 - 2019: Communications Mentor, Research Experiences in Solid Earth Sciences for Students, UNAVCO
