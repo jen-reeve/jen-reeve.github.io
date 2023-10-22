@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "seejenscience"
+  username               : #&twitter "seejenscience"
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/jennifer-reeve-microbio"
   orcid            : "https://orcid.org/0000-0002-7321-7038"
   pinterest        :
   soundcloud       :
